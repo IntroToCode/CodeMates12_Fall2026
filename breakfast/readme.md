@@ -1,6 +1,6 @@
-# Replace with recipe name
+# Biscuits & Sausage Gravy
 
-## Description
+## A classic recipe from the American South. This recipe includes a modified homemade biscuit and sausage gravy recipe. 
 
 <!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
 
@@ -8,12 +8,12 @@
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
+| Prep Time | 20 minutes |
+| Cook Time | 30 minutes |
+| Total Time | 50 minutes |
+| Servings | 6-8 servings |
+| Difficulty | Easy |
+| Tags | breakfast, southern, non-vegetarian |
 
 <!-- Note the fields in the markdown table -->
 
