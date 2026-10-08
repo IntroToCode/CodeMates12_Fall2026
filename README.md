@@ -2,7 +2,7 @@
 
 - Breakfast: 
 - Lunch: 
-- Dinner: 
+- Dinner: [Tandoori Chicken Wraps](dinner/readme.md) 
 
 _Notes_
 __
