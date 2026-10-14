@@ -12,8 +12,8 @@ This is not the traditional way to make biscuits, but it may become your new tec
 | Cook Time | e.g. 30 minutes |
 | Total Time | e.g. 45 minutes |
 | Servings | 8 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
+| Difficulty | Medium |
+| Tags | American, breakfast, Pork |
 
 <!-- Note the fields in the markdown table -->
 
