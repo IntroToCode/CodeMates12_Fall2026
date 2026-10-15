@@ -59,4 +59,4 @@ A filling, customizable bowl of cilantro-lime rice, black beans, grilled chicken
 
 ### Author(s):
 
-Ankita Punjani
+Ankita Punjani, Andrew Fullerton
