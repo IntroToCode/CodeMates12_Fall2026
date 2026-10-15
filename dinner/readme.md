@@ -14,6 +14,7 @@ Smoky, yogurt-marinated tandoori chicken wrapped in warm naan with a fresh coria
 | Servings | 6 |
 | Difficulty | Medium |
 | Tags | Indian, chicken, wraps, group-friendly, make-ahead |
+| Spice Level | 🌶️🌶️🌶️ |
 
 ### Ingredients:
 
