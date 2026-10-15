@@ -65,4 +65,4 @@ Smoky, yogurt-marinated tandoori chicken wrapped in warm naan with a fresh coria
 
 ### Author(s):
 
-Ankita Punjani
+Ankita Punjani, Andrew Fullerton
