@@ -14,6 +14,7 @@ A filling, customizable bowl of cilantro-lime rice, black beans, grilled chicken
 | Servings | 4 |
 | Difficulty | Easy |
 | Tags | Mexican-inspired, chicken, rice bowl, meal-prep, customizable |
+| Spice Level | 🌶️🌶️ |
 
 ### Ingredients:
 
