@@ -14,6 +14,7 @@ This is not the traditional way to make biscuits, but it may become your new tec
 | Servings | 8 |
 | Difficulty | Medium |
 | Tags | American, breakfast, Pork |
+| Spice Level | 🌶️ |
 
 <!-- Note the fields in the markdown table -->
 
