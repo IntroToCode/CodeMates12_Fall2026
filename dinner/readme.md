@@ -4,6 +4,8 @@
 
 Smoky, yogurt-marinated tandoori chicken wrapped in warm naan with a fresh coriander-mint chutney and tangy pickled onions. Inspired by North Indian street food, it's perfect for groups since everyone can build their own wrap.
 
+Beverage Pairing: Goes perfectly with an ice cold Diet Coke with lemon! 
+
 ## Stats
 
 | Field | Info |
