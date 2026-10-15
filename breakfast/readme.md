@@ -9,8 +9,8 @@ This is not the traditional way to make biscuits, but it may become your new tec
 | Field | Info |
 |-------|------|
 | Prep Time | 15 minutes |
-| Cook Time | 30 minutes |
-| Total Time | 45 minutes |
+| Cook Time | 45 minutes |
+| Total Time | 1 hour |
 | Servings | 8 |
 | Difficulty | Medium |
 | Tags | American, breakfast, Pork |
