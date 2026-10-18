@@ -67,4 +67,4 @@ Beverage pairing: Goes perfectly with a beautiful glass of red wine!
 
 ### Author(s):
 
-Ankita Punjani, Andrew Fullerton
+Ankita Punjani, Andrew Fullerton, Sean McKee
